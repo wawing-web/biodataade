@@ -1,0 +1,50 @@
+body{
+    background: linear-gradient(#41015f 0%,#4b1919 40%,#7420d3 100%);
+}
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction:column ;
+    margin-top: 100px;
+}
+.wawingpoto {
+    width: 200px;
+    
+}
+.container h2 {
+color: white;
+}
+.container h5 {
+color: white;
+transform:translateY(-10px);
+}
+.biodata {
+    background: linear-gradient(#fffffff6 0%,#f7f4f4 40%,#fefeff00 100%);
+padding-bottom: 200PX;
+}
+.biodata p{ 
+    transform:translateY(-10px);
+}
+.biodata h1{
+    transform:translateY(50px);
+}
+.hobi{
+    padding-bottom: 50px;
+}
+.rw {
+    color: black;
+    font-size: 30px;
+    transform: translateY(-100px);
+}
+.watermark{
+    background-color: black;
+    padding-bottom: 20px;
+}
+.footer{
+    background-color: white;
+}
+.aw{
+    transform:translateY(-50px);
+}
